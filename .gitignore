@@ -1,3 +1,15 @@
+# Created by https://www.toptal.com/developers/gitignore/api/direnv,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=direnv,dotenv
+
+### direnv ###
+.direnv
+.envrc
+
+### dotenv ###
+.env
+
+# End of https://www.toptal.com/developers/gitignore/api/direnv,dotenv
+
 build2
 node_modules
 dist
